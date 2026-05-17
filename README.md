@@ -47,3 +47,12 @@ python tracker.py
 
 - Python 3.x
 - Dependencies listed in `requirements.txt`
+
+## Screenshot
+![WebScraperBot in Action](tracker.png)
+
+## 👤 Author
+
+**hackerjoe69**
+
+- GitHub: [@hackerjoe69](https://github.com/hackerjoe69)
